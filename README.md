@@ -2,7 +2,7 @@
 
 This repository contains the Mathematica code accompanying the paper
 
-**"Continuous-time quantum walks with a Lindblad boundary sink"**  
+**"Boundary-localized non-Hermitian modes in an absorbing quantum walk"**  
 Francisco Riberi
 
 The code reproduces the numerical figures in the manuscript and
