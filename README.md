@@ -10,12 +10,10 @@ provides the convergence checks discussed in the Appendix.
 
 ## Contents
 
-- `Figure1.nb` — survival probability and first-passage statistics.
+- `Figure1.nb` — survival probability and first-passage statistics. Convergence tests
 - `Figure2.nb` — doubled-lattice Wigner-function dynamics and
-  boundary-mode contribution.
-- `NormalizedWigner.nb` — conditionally normalized Wigner function
-  shown in the Appendix.
-- `ConvergenceChecks.nb` — numerical convergence tests.
+  boundary-mode contribution. Conditionally normalized Wigner function. Convergence tests.
+
 
 ## Requirements
 
