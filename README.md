@@ -25,8 +25,7 @@ the numerical convergence checks discussed in the referee response.
 
 The semi-infinite lattice is approximated by a finite chain, and the state
 is propagated directly under the finite-dimensional non-Hermitian effective
-Hamiltonian. The analytic infinite Bessel-series representation of the
-propagator is therefore not truncated in generating the numerical figures.
+Hamiltonian. 
 
 The scripts contain explicit convergence tests for the finite-chain cutoff.
 For the Wigner-function figures, the momentum grid is also tested for
