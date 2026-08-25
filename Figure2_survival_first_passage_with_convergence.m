@@ -1,9 +1,10 @@
-(* ============================================================*)(*Absorbing c\
-ontinuous-time quantum walk*)(*Figure 1:survival probability and first-\
-passage density*)(**)(*This script generates the survival-\
-probability and*)(*first-passage-density panels used in Fig.\
-1 of the*)(*accompanying manuscript.*)(**)(*Wolfram Language/\
-Mathematica*)(*No external packages are required.*)(* ============================================================*)
+(* ============================================================*)
+(*Absorbing continuous-time quantum walk*)(*Figure 1:survival probability and first-passage density*)
+(**)(*This script generates the survival probability and*)
+(*first-passage-density panels used in Fig. 1 of the*)
+(*accompanying manuscript.*)(**)(*Wolfram Language/Mathematica*)
+(*No external packages are required.*)
+(* ============================================================*)
 ClearAll["Global`*"];
 
 
@@ -22,7 +23,7 @@ ClearAll["Global`*"];
 (*------------------------------------------------------------*)
 
 Omega = 1.;
-s0 = 4;
+s0 = 8;
 
 etas = {0.25, 1.0, 4.0};
 etaLabels = {"\[Eta] = 0.25", "\[Eta] = 1", "\[Eta] = 4"};
