@@ -25,7 +25,7 @@ the numerical convergence checks discussed in the referee response.
 
 The semi-infinite lattice is approximated by a finite chain, and the state
 is propagated directly under the finite-dimensional non-Hermitian effective
-Hamiltonian. 
+Hamiltonian.
 
 The scripts contain explicit convergence tests for the finite-chain cutoff.
 For the Wigner-function figures, the momentum grid is also tested for
@@ -46,6 +46,13 @@ sections and print their results directly when evaluated.
 ## Paper
 
 https://arxiv.org/abs/2605.08056
+
+## AI assistance
+
+ChatGPT (OpenAI) was used to assist with Wolfram Language code generation,
+code organization, and the implementation of numerical convergence checks.
+The resulting code and numerical outputs were reviewed and verified by the
+author.
 
 ## License
 
